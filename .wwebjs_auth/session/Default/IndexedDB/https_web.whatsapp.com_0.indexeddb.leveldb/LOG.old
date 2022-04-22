@@ -1,35 +1,35 @@
-2022/04/22-09:44:23.618 2480 Reusing MANIFEST C:\xampp\htdocs\codewriters\chatinger\whatsapp-web-js-raiz\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/04/22-09:44:23.619 2480 Recovering log #922
-2022/04/22-09:44:23.807 2480 Reusing old log C:\xampp\htdocs\codewriters\chatinger\whatsapp-web-js-raiz\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000922.log 
-2022/04/22-09:44:35.532 5c0c Level-0 table #938: started
-2022/04/22-09:44:35.574 5c0c Level-0 table #938: 1104045 bytes OK
-2022/04/22-09:44:35.576 5c0c Delete type=0 #922
-2022/04/22-09:44:39.652 36ac Compacting 1@0 + 0@1 files
-2022/04/22-09:44:39.769 36ac Generated table #939@0: 13270 keys, 572862 bytes
-2022/04/22-09:44:39.770 36ac Compacted 1@0 + 0@1 files => 572862 bytes
-2022/04/22-09:44:39.770 36ac compacted to: files[ 0 2 20 0 0 0 0 ]
-2022/04/22-09:44:39.771 36ac Delete type=2 #938
-2022/04/22-09:44:40.434 6064 Compacting 1@1 + 10@2 files
-2022/04/22-09:44:40.838 6064 Generated table #940@1: 36738 keys, 2274578 bytes
-2022/04/22-09:44:41.076 6064 Generated table #941@1: 23486 keys, 2205263 bytes
-2022/04/22-09:44:41.149 6064 Generated table #942@1: 1366 keys, 2144261 bytes
-2022/04/22-09:44:41.215 6064 Generated table #943@1: 1606 keys, 2136337 bytes
-2022/04/22-09:44:41.304 6064 Generated table #944@1: 2617 keys, 2147194 bytes
-2022/04/22-09:44:41.429 6064 Generated table #945@1: 3699 keys, 2155764 bytes
-2022/04/22-09:44:41.561 6064 Generated table #946@1: 4052 keys, 2153131 bytes
-2022/04/22-09:44:41.780 6064 Generated table #947@1: 26288 keys, 2217834 bytes
-2022/04/22-09:44:42.001 6064 Generated table #948@1: 27729 keys, 2270701 bytes
-2022/04/22-09:44:42.188 6064 Generated table #949@1: 19547 keys, 1632143 bytes
-2022/04/22-09:44:42.188 6064 Compacted 1@1 + 10@2 files => 21337206 bytes
-2022/04/22-09:44:42.261 6064 compacted to: files[ 0 1 20 0 0 0 0 ]
-2022/04/22-09:44:42.261 6064 Delete type=2 #926
-2022/04/22-09:44:42.262 6064 Delete type=2 #927
-2022/04/22-09:44:42.262 6064 Delete type=2 #928
-2022/04/22-09:44:42.262 6064 Delete type=2 #929
-2022/04/22-09:44:42.262 6064 Delete type=2 #930
-2022/04/22-09:44:42.262 6064 Delete type=2 #931
-2022/04/22-09:44:42.262 6064 Delete type=2 #932
-2022/04/22-09:44:42.262 6064 Delete type=2 #933
-2022/04/22-09:44:42.262 6064 Delete type=2 #934
-2022/04/22-09:44:42.262 6064 Delete type=2 #935
-2022/04/22-09:44:42.262 6064 Delete type=2 #939
+2022/04/22-09:47:21.516 69b0 Reusing MANIFEST C:\xampp\htdocs\codewriters\chatinger\whatsapp-web-js-raiz\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/22-09:47:21.517 69b0 Recovering log #937
+2022/04/22-09:47:21.723 69b0 Reusing old log C:\xampp\htdocs\codewriters\chatinger\whatsapp-web-js-raiz\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000937.log 
+2022/04/22-09:47:50.244 66c8 Level-0 table #952: started
+2022/04/22-09:47:50.785 66c8 Level-0 table #952: 1096904 bytes OK
+2022/04/22-09:47:50.790 66c8 Delete type=0 #937
+2022/04/22-09:47:56.944 6850 Compacting 1@0 + 0@1 files
+2022/04/22-09:47:56.994 6850 Generated table #953@0: 13537 keys, 519415 bytes
+2022/04/22-09:47:56.994 6850 Compacted 1@0 + 0@1 files => 519415 bytes
+2022/04/22-09:47:56.995 6850 compacted to: files[ 0 2 20 0 0 0 0 ]
+2022/04/22-09:47:56.995 6850 Delete type=2 #952
+2022/04/22-09:47:59.359 66c8 Compacting 1@1 + 10@2 files
+2022/04/22-09:47:59.500 66c8 Generated table #954@1: 35003 keys, 2274750 bytes
+2022/04/22-09:47:59.600 66c8 Generated table #955@1: 26034 keys, 2206358 bytes
+2022/04/22-09:47:59.721 66c8 Generated table #956@1: 1488 keys, 2138997 bytes
+2022/04/22-09:47:59.863 66c8 Generated table #957@1: 1581 keys, 2142563 bytes
+2022/04/22-09:47:59.915 66c8 Generated table #958@1: 2560 keys, 2144457 bytes
+2022/04/22-09:48:00.037 66c8 Generated table #959@1: 3732 keys, 2157718 bytes
+2022/04/22-09:48:00.082 66c8 Generated table #960@1: 3979 keys, 2152389 bytes
+2022/04/22-09:48:00.309 66c8 Generated table #961@1: 25764 keys, 2214650 bytes
+2022/04/22-09:48:00.429 66c8 Generated table #962@1: 27523 keys, 2271003 bytes
+2022/04/22-09:48:00.518 66c8 Generated table #963@1: 20426 keys, 1698303 bytes
+2022/04/22-09:48:00.518 66c8 Compacted 1@1 + 10@2 files => 21401188 bytes
+2022/04/22-09:48:00.519 66c8 compacted to: files[ 0 1 20 0 0 0 0 ]
+2022/04/22-09:48:00.520 66c8 Delete type=2 #940
+2022/04/22-09:48:00.520 66c8 Delete type=2 #941
+2022/04/22-09:48:00.520 66c8 Delete type=2 #942
+2022/04/22-09:48:00.520 66c8 Delete type=2 #943
+2022/04/22-09:48:00.520 66c8 Delete type=2 #944
+2022/04/22-09:48:00.520 66c8 Delete type=2 #945
+2022/04/22-09:48:00.520 66c8 Delete type=2 #946
+2022/04/22-09:48:00.520 66c8 Delete type=2 #947
+2022/04/22-09:48:00.520 66c8 Delete type=2 #948
+2022/04/22-09:48:00.520 66c8 Delete type=2 #949
+2022/04/22-09:48:00.520 66c8 Delete type=2 #953
