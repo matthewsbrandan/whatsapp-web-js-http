@@ -14,7 +14,7 @@ const io = require('socket.io')(server,{
 });
 
 app.use(cors({ origin: origins }));
-console.log('Available origins >> ', origins)
+console.log('Available origins >> ', origins);
 
 app.use(express.static(path.join(__dirname, 'src/public')));
 app.set('views', path.join(__dirname, 'src/public'));
