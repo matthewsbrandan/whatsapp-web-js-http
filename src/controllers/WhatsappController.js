@@ -42,6 +42,7 @@ module.exports = class Whatsapp {
 
     this.client = new Client({
       authStrategy: new LocalAuth(),
+      puppeteer: { args: ['--no-sandbox'] }
     });
     
     this.client.on('qr', qr => {
