@@ -29,6 +29,6 @@ new classWhatsappController(app, io);
 
 app.use('/status-server', (req, res) => {
   res.render('index.html');
-})
+});
 
 server.listen(process.env.PORT || 8080);
