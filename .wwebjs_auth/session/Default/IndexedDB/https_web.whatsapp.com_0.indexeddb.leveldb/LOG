@@ -1,0 +1,35 @@
+2022/04/22-09:47:21.516 69b0 Reusing MANIFEST C:\xampp\htdocs\codewriters\chatinger\whatsapp-web-js-raiz\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/22-09:47:21.517 69b0 Recovering log #937
+2022/04/22-09:47:21.723 69b0 Reusing old log C:\xampp\htdocs\codewriters\chatinger\whatsapp-web-js-raiz\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000937.log 
+2022/04/22-09:47:50.244 66c8 Level-0 table #952: started
+2022/04/22-09:47:50.785 66c8 Level-0 table #952: 1096904 bytes OK
+2022/04/22-09:47:50.790 66c8 Delete type=0 #937
+2022/04/22-09:47:56.944 6850 Compacting 1@0 + 0@1 files
+2022/04/22-09:47:56.994 6850 Generated table #953@0: 13537 keys, 519415 bytes
+2022/04/22-09:47:56.994 6850 Compacted 1@0 + 0@1 files => 519415 bytes
+2022/04/22-09:47:56.995 6850 compacted to: files[ 0 2 20 0 0 0 0 ]
+2022/04/22-09:47:56.995 6850 Delete type=2 #952
+2022/04/22-09:47:59.359 66c8 Compacting 1@1 + 10@2 files
+2022/04/22-09:47:59.500 66c8 Generated table #954@1: 35003 keys, 2274750 bytes
+2022/04/22-09:47:59.600 66c8 Generated table #955@1: 26034 keys, 2206358 bytes
+2022/04/22-09:47:59.721 66c8 Generated table #956@1: 1488 keys, 2138997 bytes
+2022/04/22-09:47:59.863 66c8 Generated table #957@1: 1581 keys, 2142563 bytes
+2022/04/22-09:47:59.915 66c8 Generated table #958@1: 2560 keys, 2144457 bytes
+2022/04/22-09:48:00.037 66c8 Generated table #959@1: 3732 keys, 2157718 bytes
+2022/04/22-09:48:00.082 66c8 Generated table #960@1: 3979 keys, 2152389 bytes
+2022/04/22-09:48:00.309 66c8 Generated table #961@1: 25764 keys, 2214650 bytes
+2022/04/22-09:48:00.429 66c8 Generated table #962@1: 27523 keys, 2271003 bytes
+2022/04/22-09:48:00.518 66c8 Generated table #963@1: 20426 keys, 1698303 bytes
+2022/04/22-09:48:00.518 66c8 Compacted 1@1 + 10@2 files => 21401188 bytes
+2022/04/22-09:48:00.519 66c8 compacted to: files[ 0 1 20 0 0 0 0 ]
+2022/04/22-09:48:00.520 66c8 Delete type=2 #940
+2022/04/22-09:48:00.520 66c8 Delete type=2 #941
+2022/04/22-09:48:00.520 66c8 Delete type=2 #942
+2022/04/22-09:48:00.520 66c8 Delete type=2 #943
+2022/04/22-09:48:00.520 66c8 Delete type=2 #944
+2022/04/22-09:48:00.520 66c8 Delete type=2 #945
+2022/04/22-09:48:00.520 66c8 Delete type=2 #946
+2022/04/22-09:48:00.520 66c8 Delete type=2 #947
+2022/04/22-09:48:00.520 66c8 Delete type=2 #948
+2022/04/22-09:48:00.520 66c8 Delete type=2 #949
+2022/04/22-09:48:00.520 66c8 Delete type=2 #953
